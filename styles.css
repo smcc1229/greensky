@@ -4,6 +4,14 @@
   background-color: green;
 }
 
+.my-class{
+  border: 2px solid green;
+  padding: 4px;
+  margin-right: 20px;
+  background-color: orange;
+  width: 60%;
+}
+
 h1 {
   color: #0000ff;
   text-align: center;
